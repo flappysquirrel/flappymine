@@ -1,0 +1,8 @@
+- Arrows look slightly more sleek now, when flying through air.
+
+- Chests had this greenish hue to them, which was unintended.
+ Fixed so that have the same colors as the default textures,
+ while also maintaining their smooth look.
+
+- Boats Finally got some touch ups. they also use to have this greenish hue,
+ again unintended. Fixed and cleaned up to be smooth.

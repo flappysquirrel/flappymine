@@ -1,0 +1,8 @@
+- hotfix on Obsidian texture. Pattern stops and also has an unintended blue line.
+ removed and worked on to have a smooth patterm.
+
+- pixel touchups for the command block. nothing noticable.
+
+- I gave dispencers a crossbow, WOO!
+
+- grass on the side of dirt was desaturated AGAIN. ugh

@@ -1,0 +1,9 @@
+- Updated to Minecraft Snapshot 13w01a to prepare for 1.4.7
+
+- reduction to the speckle within the redstone block
+
+- two lights on the Daylight Detector block did not match the rest.
+
+- Fixed the new Redstone Comparator to match the Redstone Repeaters.
+
+- Trap Chests were altered to look like the current normal chests

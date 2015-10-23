@@ -1,0 +1,2 @@
+- removed art, armor, and mobs folder in the texture pack reducing file size making it easier
+ to download and also fixing a couple errors with the zombie mob texture.

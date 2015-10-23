@@ -1,0 +1,16 @@
+- Changed and revamped the stone texture to be less repetitive 
+in larger quantities and reduced visual static at even greater distances.
+
+- As a result to changing stone I had to rematch all the ores with 
+the new stone texture behind each cluster, so they would flow when naturally occurring within stone.
+
+- Altered all types of wood planks. Lightened and saturated the dark outlines between planks to
+ further reduce the Moire effect viewed from long distances.
+
+- I noticed that mojang messed up neather brick on the bottom row 
+(bottom last brick pattern needed to be moved left 2 pixels) Fixed it to make more sense and for the sake of my OCD, 
+Also improved pattern meshing and shading to work well in larger quantities, 
+Along with improving the bevel to have a more defined look like actual bricks.
+
+- I darkened and saturated vibrance of the grass on the side of dirt, as it does not seem to accept proper biome coloring
+Will have to look further into it but this edit should suffice for now.

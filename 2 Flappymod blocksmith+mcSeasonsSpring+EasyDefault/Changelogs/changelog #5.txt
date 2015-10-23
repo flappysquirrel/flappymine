@@ -1,0 +1,5 @@
+- Fixed Title background panaram to mesh better with itself.
+
+- Re fixed ladders again.
+
+- Minor changes to dirt with snow on it.

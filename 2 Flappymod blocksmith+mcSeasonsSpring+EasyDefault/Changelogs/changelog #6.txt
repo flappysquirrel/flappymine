@@ -1,0 +1,7 @@
+- Changed the grasscolor within a mushroom biome (when applicable)
+
+- Fixed & updated Gui windows: crafting, alchemy, & repair to properly show text without obstruction from graphics.
+
+- Added new Gui Windows : enchant & furnace
+
+- Uploaded New cover picture for better visual apeal to attract more users.(cover picture is avayable for 1920x1200 download)

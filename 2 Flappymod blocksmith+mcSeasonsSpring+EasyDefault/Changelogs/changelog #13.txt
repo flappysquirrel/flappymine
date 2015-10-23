@@ -1,0 +1,208 @@
+- Updated to 1.5.1
+
+- Fixed all greenish hue to everything that contained wood and applied a hue that is 
+taken from the default in order to have a default look. aka made wood look like wood again.
+This contains fixes for: oak wood, oak wood planks, chests, ladders, crafting table,
+ wood door, levers, torches, redstone torches, all types of rail track, signs, pistons, beds, ext.
+
+- Altered Nether Quartz ore to even further have a more refined pattern. 
+On a side note it kinda looks like bones... yea
+
+- COMPLETLY revamped Gold, Emerald, and Diamond blocks into what I like to call Wealth blocks.
+ I felt that the default style looked nothing like they should. they should
+ represent your wealth and deserve nothing but amazing textures and
+ I feel I represented that within these new textures. Gold, Emerald, and Diamond blocks now
+ have a sub pattern so that they work well in large quantities next to each other. You can also
+ mix and match them and it will still look fine because the sub pattern is the same within each.
+ Lastly each has a very important frame around the block which helps unifying each one so your
+ wealth is properly represented. This is some of my best changes to this texture pack
+ And it looks fantastic ingame.
+
+- Reduced the contrast within Nether rack. this should look much better when
+ viewed in large quantities like for example within the nether. And with that Matched the backing
+ of Nether Quartz to match.
+
+- Gave Soulsand a creeper face... woot
+
+- Fixed Mycelium side with dirt to match the other dirt textures
+
+- Changes to the noteblock. the small pattern was of greenish hue so I changed it to a greyish-red
+
+- Altered Dector rail to look more defined. Cleaned it up a bit
+
+- Cleaned up rails. Increased the contrast on the Railtracks to have them match the default texture.
+
+- Changed all glass to have dark navy frames. This was a very dificult desition to make since it
+ strays from the default. But ultimatly I believe it has a much more usefull look for builds.
+
+- (Unconfirmed) Fixed The purple-pinkish water when used with mods.
+
+- Fixed cactus bottom to seem more rounded.
+
+- Recolored cake to have the rich default colores and white frosting.
+
+- Carrots growth stem was reverted to the default colores however fully grown carrots are unchanged.
+
+- The top of Cauldrons now have a darker rim like in default.
+
+- Revamped the colored cloth blocks. should be easier to use them with buildings now.
+
+- Comparators now have a more improved look based on the default styling.
+
+- Crops now have a more default look while growing up until the last 3 stages where you can see 
+ more drastic changes into its final color of golden brown weat. This has more utility than default 
+ and will drasticly help players to know when its done. All while looking good.
+
+- The top of the daylight dector block had two pixels out of order in the pattern...
+ my ocd made me fix it.
+
+- The green hue ive been fixing in all the wood im noticing within all the block that have dirt
+ UGH... fixed and returned all things with dirt Including the main menu background.
+
+- Removed the dispencers visual crossbow since I got no positive feedback from it. Gave it a
+ revamp of the default texture, it looks really nice.
+
+- Iron doors were completly redone. They now feature new details with a better light gradient.
+ this makes them prime for refrigerators.
+
+- Furnace holes got more rounded and look better up close. I also put the frame around them like
+ the side of the furnace has one. No idea why they made it like that.
+
+- Soulsand also had a greenish tint when compared to the default.
+ fixed to be colored more brown like default. Not that being brown colored is bad. >.>
+
+- Also gave one of the faces in soulsand a spine... eek
+
+- Nether Rack also got a recolor.. it had a purple hue but that was intended by me.
+ switched it up to be more red, and by more I mean its blood red.
+
+- The grass texture was brought up to 147/147/147 avarage which is the same RBG avarage of the 
+ default grass texture.
+
+- green hue got on the jukebox.. damn it got everywhere, fixed and colored to default hue.
+
+- Ice got a slightly more cyan tint to match the default coloring.
+
+- Random green pixel on jungle leaves... wierd
+
+- Glowstone has been touched up around the edges to be more bright.
+
+- Mushroom skin brown got a green tint removal... reverted to default color.
+
+- Potatos now have a different crop pattern than carrots.
+ They also look like they are growing into the final growth.
+
+- Pumpkins got thier green hue fixed and I reverted it back to the default coloring.
+ Also Remade the Jackolantern to glow more properly.
+
+- glowstone lamps had their color fixed back to default.
+
+- Sugar cane got some touch ups. More saturation, and color balance betwene lime and yellow.
+
+- The rose actually looks like a rose... no really take a look.
+ Im really proud that I could get it to look that good being the same size and color as the default.
+
+- Sandstone and sand all have a more dusky coloring than the default.
+ this is to give the user a more arid and beaming sun feel.
+
+- Stone brick smooth carved recieved a fix. there was a brown spot in the bottom left
+ of the texture.
+
+- Mossy stone brick got its moss changed to a more greener hue
+
+- Increased the vibrance of TNT to be more like the defaults.
+
+- Birch wood have had the random color noise reduced to look more like the default texture.
+
+- Water anamation had its hue changed 20 notches twards green. to give it a more cyan aqua look.
+
+- Rain drops and water splashes also had thier hue changed to match the new aqua.
+
+- Webs had the darks taken out. they are now more white.
+
+- Workbenches had their colors reset back to the default colors. They had the green hue infection.
+
+- I scrapped my grass and shortened the defaults. Tall grass is now known as Half grass.
+
+- Changed grass sides to grey. when holding a grassblock it will apear grey but will now accept
+ proper biome coloring in the world. I consider this a triumph untill they fix this bug.
+
+- Added dropper block. It looks like the inverse of a dispencer. Which is very fitting.
+
+- Enchanting table corners now have the diamond block's color.
+
+- Moved the block distroying anamation up one pixel to be centered.
+
+- Enchanting Gui has be cleaned up a bit to match the colors of the enchanting table.
+
+- Added an Alternates.png so the user can chose which one they like.
+
+- cleaned the gui of the main menu and the action bar ingame. 
+ The actionbar selection is now diamond colored to be more themed and visible.
+
+- Main Menu minecraft title swapped out for a greatly higher resolution image. Minecraft sizes the
+ image down perfectly to give the same feel no matter what resolution your using.
+
+- The grain on the main menu buttons and the action bar in game were all removed.
+
+- Clouds now have hidden enemy mob's faces within them. See if you can find them all.
+
+- Cleaned up the experience bar to be more vibrant and green.
+
+- Changed crosshair to a dot.
+
+- Changed "No Signal strength" icon in the server list to just be red bars.
+
+- Complete Recreation of all types of sandstone to better match and co exist with sand.
+ The sandstone blocks now build extremly well with sand and have a much cleener cut.
+
+- Inline pixel redraw of the crack designs within Sandstone_side. These redraws will improve/fix
+ how sandstone looks side by side, and how it looks side by side with the other smooth sandstone blocks.
+
+- Added the text files for the fire, lava, lava flow, water, water flow, and portal amamation orders.
+
+- Switched NeatherQuartz ore with one of the Alternates so that it actually looks like an Ore.
+ Tho the previous one had much more detail, it looked out of place.
+
+- Changed the Dark Navy Blue glass frames to a soft gradient white-blue. I cant seem to make up my mind
+ on which looks better. The Navy glass is in the Alternates.
+
+- Moved up the block breaking loading bar anamation up one pixel
+
+- Cleaned up Repeaters to look well... cleaner and cooler.
+ I also gave them marks to diferentiate tick levels at more of a distance.
+
+- Switched Leaves with the default leaves that have a slightly reduced contrast.
+ I felt my leaves were too different from default, and maintaining that look is very important.
+
+- I gave Cauldron's better shading so they look more round.
+
+- Changed Diamond armor and all diamond items to match the diamond ore colors which is a shade more blue.
+
+- Altered Chain Armor and all Chain armor items to look like a Ghillie Suit Camoflague (leaves texture). 
+ As it turns out with testing, its incredibly usefull for hiding and most players walk right past you.
+
+- Changed glowstone dust to match glowstone.
+
+- Added an HD font to the texture pack.
+
+- Added Connected Textures for Optifine
+
+- Completly Replaced all Default paintings with All Custom made new Minecraft pixed art paintings!
+
+- I gave gold blocks more of an orangy shadow to match the ore. Now it looks even more like gold.
+
+- Added the new Coal Block. It was very low on detail so I gave it more shades while keeping it sharp.
+ I also added a Frame like all the other Compressed blocks ie:
+ (gold/iron/redstone/emerald/diamond/lapis/ And Now Coal!)
+
+- Added coald block without a frame for an alternate texture.
+
+- Went back to Dropers and made the hole a rectangle to further differentiate betwene dispencers.
+ Also as an added bonus it matches the default, so thats something.
+
+- Old dropper added to alternates
+
+- Added Hayblocks and colored both sides to match EasyDefault's fully grown wheat texture. 
+ Mmm golden wheaty brown!
+

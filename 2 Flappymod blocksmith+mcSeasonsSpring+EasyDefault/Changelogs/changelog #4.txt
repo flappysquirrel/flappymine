@@ -1,0 +1,7 @@
+- Fixes and updates the following textures (pattern fixes): 
+Sand, Crafting table, Mycelium, Jungle leaves, Snow, Leavers, Ladders,
+ Diamond blocks, and Gold blocks.
+
+- The sand texture had a unintended repeating line of pixels, so it was fixed
+ and reworked upon that. Sand now has a more frequent rolling slightly grainy
+ texture that meshes well in large quantities.

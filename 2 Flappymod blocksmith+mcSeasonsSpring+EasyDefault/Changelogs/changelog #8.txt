@@ -1,0 +1,5 @@
+- Signs somehow got past me being off its texture alignment for one too many updates.
+Fixed and updated to have more of an original look.
+
+- Minecarts were darkened and given an amber hue for use with chairs 
+and for better underground lighting from torches, Also they look more like minecarts now.

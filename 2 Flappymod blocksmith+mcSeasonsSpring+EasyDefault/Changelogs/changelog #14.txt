@@ -1,0 +1,48 @@
+- Updated to 1.7.6
+
+- Texture pack has been broken for a while. Renamed all files and updated into a Reasource pack.
+Seriosuly tho this took way longer than it should have.
+
+- Added and edited new streaming gui pannels
+
+- Created new Dispencer and Hopper GUI pannels
+
+- Added Minectaft Realms to the HD title and Made an HD mojang splash screen
+
+- Changed the side of podzool to match my dirt
+
+- fixed a sharp glint on the cobblestone block
+
+- Remade End_stone to be more ofthe inverse of cobblestone alone with End_stone_side
+
+- Fixed all types of glass including colores 
+
+- Soulsand is now reddish to you know... fit in hell.
+
+- Packed Ice matches Ice now
+
+- Took a stab at lava ... so fucking cool.
+
+- Added new log tops... when did they add this shit -.-
+
+- Changed Obsidian greatly. Now in stead of a dark purple block its a dark purple with redish highlights
+cuz lava and gradiants look cool
+
+- Recreated jungle oak birch and spruce to have more contrast. Tho a common block its not as common as grass or stone.
+Increasing the detail should brin back planks good looks.
+
+- Soooo I changed the neather portal to better suit the new obsidian.
+
+- The fuck is red sand? alright welll... gave it sand's texture but now red.
+
+- Changed stone slap top to have stones texture while still having the inner tiled look
+
+- No more yellowish trapdoors
+
+- Changed enchanting tables to have the new obsidian block
+
+- Wooden doors were slightly adjusted.
+
+- Fixed mossy cobblestones name.
+
+- Had to remove HD fonts because they are broken without mods which conflicts with the purpose of this texturepack.

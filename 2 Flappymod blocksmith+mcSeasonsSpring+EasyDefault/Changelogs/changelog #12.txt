@@ -1,0 +1,4 @@
+- Furnace Gui was touched up to look more intended and symmetrical, Also arrow was droped down one pixel.
+
+- Pumpkin blur reduced to be less blur intence, as it was making peoples eyes naturally water to clean
+ which was untended. I don't want to make people cry via my texture pack hahaha.

@@ -1,0 +1,50 @@
+- Completly remade a brand new Panoram for the main menu. This time its actually made with EasyDefault!
+Tho it was also shoved into photoshop and came out as a beautiful filtered mess. Just the way I like.
+
+- Vastly Reduced the size Of the files. After rounding around 20 MB I feel like something had to be done.
+I managed to put the texture pack on a diet and bring it to 5 MB which is 1/4 of what it was.
+
+- (Bug found by: seasea128) Horse health textures missing completly. Changes to icons.png include the following
+ * Empty Heart canisters given concaved shading
+ * Hearts recreated pixel by pixel with my own shading not used on the other hearts. All hearts retain heart shape.
+ * Poisned hearts now have green goo mostly covering heart.
+ * Wither plagued hearts are charrd red as if burnt and withered.
+ * Golden appled hearts now aquire Avarice and are mostly covered in gold colored from golden apples.
+ * Hardcore mode hearts now are bleeding in the shape of the hardcore emblem heart. wow so hardcore.
+ * We have had iron armor for just way to long. Upgraded to diamond!
+ * Also Armor has proper hand created shading as well as the empty armor slots.
+ * Horse Health Missing and thanks to seasea128 now its found and added!
+ * I think horse hearts were actually saddles turned sideways, with iron sturups. Shaded and recolored.
+ * Horse jump bar was smothed recolored and had its vibrance increased. baisically given the xp treatment.
+ * Internet connection and ping bars are altered to... look cooler now I guess. Whatever I like it.
+
+- Pack.png was updated to fit the new version 15. 
+Now people will feel more inclined to select EasyDefault over others.
+
+- Both Pistion tops Sticky & Normal were redone with a new style that stands out from default while looking cool.
+Couldn't turn my head away any longer looking at the boken pattern on pistons. OCD tendancys Rejoyce!
+Sticky Piston goo also has the slime block pattern in it.
+
+- I could not decide which Sticky goo to use on the Sticky piston. 
+I had made a cool circle pattern but couldn't see how it could be used for table decoration
+(the alternate use for sticky pistons). So I made a goo smudge as well and put the circle goo in alternates.
+
+- Complete recolor on Brick blocks. I seemed way to orange and needed to feel like a overcast day in Boston.
+The overall brightness of the block was reduced and redness was increased, becuse bricks are red generally.
+Also bricks tend to alternate color every once in a while so I brought in an alternating color brick. Lookin Good.
+(old bricks thrown in alternates)
+
+- I am STILL finding blocks that cought the random green blotches... its not easy to spot because its sooooooo
+barely visible. Fixed the green hue on the bottom of stonebrick. 
+
+- I Made a brick like variant for Stonebrick that I put in alternates. 
+It looks good I just think it strays from default too much. Go check it out or try it out. whichever.
+
+- Sand cought the green bug.. color adjusted ever so slightly away from green. 
+I Hope that my eyes arnt going and started failing to pick up all other colores besides green.
+
+- Sandstone's texture name was fixed. It was labled as Sandstone side rather than Sandstone normal.
+
+- Log tops of All log block textures were changed to match the color of the matching wood plank block texture.
+So now Logs can be used along side Planks in player builds as to have matching colors with a different texture.
+Color of the bark on the side of Logs remain unchainged.
